@@ -1,0 +1,12 @@
+com\sanqi\manage\controller\ItemDescController.class
+com\sanqi\manage\controller\api\ApiItemController.class
+com\sanqi\manage\controller\api\ApiItemCatController.class
+com\sanqi\manage\controller\PicUploadController.class
+com\sanqi\manage\controller\api\ApiContentController.class
+com\sanqi\manage\controller\PageController.class
+com\sanqi\manage\controller\ItemParamItemController.class
+com\sanqi\manage\controller\ContentController.class
+com\sanqi\manage\controller\ContentCategoryController.class
+com\sanqi\manage\controller\ItemCatController.class
+com\sanqi\manage\controller\ItemParamController.class
+com\sanqi\manage\controller\ItemController.class

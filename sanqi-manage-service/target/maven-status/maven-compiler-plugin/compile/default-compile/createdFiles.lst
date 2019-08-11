@@ -1,0 +1,9 @@
+com\sanqi\manage\service\ItemService.class
+com\sanqi\manage\service\ItemDescService.class
+com\sanqi\manage\service\ItemParamItemService.class
+com\sanqi\manage\service\ContentCategoryService.class
+com\sanqi\manage\service\PropertieService.class
+com\sanqi\manage\service\ContentService.class
+com\sanqi\manage\service\ItemParamService.class
+com\sanqi\manage\service\ItemCatService.class
+com\sanqi\manage\service\BaseService.class

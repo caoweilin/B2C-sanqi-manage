@@ -1,0 +1,7 @@
+com\sanqi\manage\mapper\ItemDescMapper.class
+com\sanqi\manage\mapper\ItemParamItemMapper.class
+com\sanqi\manage\mapper\ItemCatMapper.class
+com\sanqi\manage\mapper\ItemParamMapper.class
+com\sanqi\manage\mapper\ContentMapper.class
+com\sanqi\manage\mapper\ItemMapper.class
+com\sanqi\manage\mapper\ContentCategoryMapper.class
